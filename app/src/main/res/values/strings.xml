@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Firebase beta</string>
+    <string name="insert">Insert</string>
+    <string name="firebase_testing">Firebase Testing</string>
+    <string name="update">Update</string>
+    <string name="first_name">First Name - </string>
+    <string name="last_name">Last Name - </string>
+    <string name="salary">Salary - </string>
+    <string name="save">Save</string>
+    <string name="loading_data">Loading Data</string>
+    <string name="employe">Employe</string>
+</resources>
